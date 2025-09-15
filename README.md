@@ -1,0 +1,2 @@
+# Predict-the-percentage-of-an-student-based-on-the-no.-study-hours.
+The goal is to build a model that can forecast academic performance from study time. Using a small dataset of 25 student records, we train a linear regression model to establish a relationship between study hours (independent variable) and scores (dependent variable). This serves as an introductory example of regression tasks in machine learning.
